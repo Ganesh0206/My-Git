@@ -1,6 +1,1 @@
- HEAD (its is considered for destination branch)
- hello its the 6th file created in b1
-=======
- hello its the sixth file created in master
->>>>>>> master
-
+its created again
